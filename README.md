@@ -24,7 +24,7 @@ N/A
 
 ## License
 
-# Released under [MIT License](https://www.mit.edu/~amini/LICENSE.md)
+Please refer to the LICENSE in the repo. Released under [MIT License](https://www.mit.edu/~amini/LICENSE.md)
 
 ## Features
 
